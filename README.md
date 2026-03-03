@@ -1,0 +1,2 @@
+# STM32-Nucleo-Embedded-System-Clock-and-Humidity-Temperature-
+Temperature &amp; Humidity Monitoring System using a microcontroller, DHT sensor, RTC module, LCD display, and user switch. The system continuously reads environmental temperature and humidity, shows real-time data and current time on the LCD, and lets users toggle between time and sensor readings using a button. Ideal for embedded projects.
